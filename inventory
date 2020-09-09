@@ -1,0 +1,9 @@
+#[webservers]
+#3.87.122.191 git_repo="https://gitlab.com/lovdianchel/portofolio-teman.git"
+#54.175.8.184 git_repo="https://gitlab.com/lovdianchel/portofolio-teman.git"
+#3.86.15.148 git_repo="https://gitlab.com/lovdianchel/portofolio-teman.git"
+#54.196.72.150 git_repo="https://gitlab.com/lovdianchel/portofolio-teman.git"
+#23.20.71.26 git_repo="https://gitlab.com/lovdianchel/portofolio-teman.git"
+
+[test]
+3.81.72.231
