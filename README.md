@@ -24,7 +24,7 @@ Example:
 192.168.43.1 git_repo="https://github.com/lovdianchel/first-pwa-dicoding.git"
 ```
 
-You can add host as many as possible:
+You can add another host as many as possible:
 ```sh
 [webservers]
 your_host1 git_repo="url"
