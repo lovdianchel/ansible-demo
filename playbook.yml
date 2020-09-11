@@ -9,7 +9,7 @@
       state: directory
       mode: 0755
 
-  - name: deploy code from gitlab
+  - name: deploy code from git
     git:
       repo: "{{ git_repo }}"
       accept_hostkey: yes
